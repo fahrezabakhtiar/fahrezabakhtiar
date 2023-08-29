@@ -8,7 +8,7 @@ I'm actively engaged in committee work and volunteer initiatives to enhance my s
 
 With an unwavering commitment to learning and a constant desire to enhance my knowledge and skills, I'm dedicated to carving out a successful path in my chosen field.
 
-- 🌱 I’m currently learning about Data Science, Data Analytics, Data Visualization, and Product Management
+- 🌱 I’m currently learning about Data Science, Data Analytics, Data Visualization, BPM, and Product Management
 - 💬 Feel free to discuss :)
 - 📫 How to reach me: fahrezabakhtiar12@gmail.com
 - 😄 Pronouns: he/him
