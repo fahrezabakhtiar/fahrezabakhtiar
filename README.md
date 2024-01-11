@@ -2,7 +2,7 @@
 <!--
 **fahrezabakhtiar/fahrezabakhtiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->  
-I'm a driven and passionate undergraduate Information Systems student at Sepuluh Nopember Institute of Technology. Holding a diverse range of interests, I'm enthusiastic about education, data, computer science, management, business, and social issues. 
+I'm a driven and passionate undergraduate Information Systems student at Sepuluh Nopember Institute of Technology. Holding a diverse range of interests, I'm enthusiastic about education, data, computer science, business, management, and digital product.
   
 I'm actively engaged in committee work and volunteer initiatives to enhance my soft skills. Furthermore, I have enrolled in a diverse range of classes, encompassing formal on-campus courses and independent off-campus studies to further develop my hard skills.
 
